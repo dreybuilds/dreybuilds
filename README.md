@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dreybuilds" target="blank"><img src="https://img.shields.io/twitter/follow/dreybuilds?logo=twitter&style=for-the-badge" alt="dreybuilds" /></a> </p>
 
-- 🌱 I’m currently learning **Risc-V , Linux ,**
+- 🌱 I’m currently learning **Risc-V , Linux ,DePIN, Blockchain**
 
 - 👯 I’m looking to collaborate on **open source projects , embedded projects , blockchain**
 
