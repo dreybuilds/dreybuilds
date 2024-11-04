@@ -1,6 +1,5 @@
-# Hi there 👋
 <h1 align="center">Hi 👋, I'm Audrey Nzilani</h1>
-<h3 align="center">A passionate Backend Developer | Embedded Full Stack developer from Kenya</h3>
+<h3 align="center">Backend Developer | Embedded SW developer | Tinkerer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreybuilds&label=Profile%20views&color=0e75b6&style=flat" alt="dreybuilds" /> </p>
 
@@ -8,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dreybuilds" target="blank"><img src="https://img.shields.io/twitter/follow/dreybuilds?logo=twitter&style=for-the-badge" alt="dreybuilds" /></a> </p>
 
-- 🌱 I’m currently learning **Risc-V , Linux ,DePIN, Blockchain**
+- 🌱 I’m currently learning **Risc-V , Linux ,DePIN, Blockchain ,Rust**
 
 - 👯 I’m looking to collaborate on **open source projects , embedded projects , blockchain**
 
-- 💬 Ask me about **python , embedded systems , C++**
+- 💬 Ask me about **python , embedded systems , C++ , Qt**
 
 - 📫 How to reach me **nzaunzilani@gmail.com**
 
